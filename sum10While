@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main(int argc, char** argv)
+{
+	int n, i = 1, sum = 0;
+	while(i<=10)
+	{
+		printf("Enter number %d :", i);
+		scanf("%d", &n);
+		sum+=n;
+		i++;
+	}
+	printf("Sum = %d", sum);
+	return 0;
+}

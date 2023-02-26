@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm castorichy.</h2>
 
-## castorichy <p align="left"> <img src="https://komarev.com/ghpvc/?username=castorichy" alt="castorichy"/> [![wakatime](https://wakatime.com/badge/user/34c6aaa4-dec6-4471-b3b5-7eaa36ae35e2.svg)](https://wakatime.com/@34c6aaa4-dec6-4471-b3b5-7eaa36ae35e2) [![twitter](https://img.shields.io/twitter/follow/castorichy1?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/castorichy1)</p>
+## castorichy <p align="left"> <img src="https://komarev.com/ghpvc/?username=castorichy1" alt="castorichy1"/> [![wakatime](https://wakatime.com/badge/user/34c6aaa4-dec6-4471-b3b5-7eaa36ae35e2.svg)](https://wakatime.com/@34c6aaa4-dec6-4471-b3b5-7eaa36ae35e2) [![twitter](https://img.shields.io/twitter/follow/castorichy1?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/castorichy1)</p>
  
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning **Python, Django, Kotlin**
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [@castorichy1](https://twitter.com/castorichy1) on Twitter
 - ⚡ Fun fact: I live on the terminal
 
-![Metrics](https://metrics.lecoq.io/castorichy?template=classic&introduction=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&tweets=false&tweets.user=castorichy&tweets.attachments=false&tweets.limit=2&config.timezone=Africa%2FNairobi)
+![Metrics](https://metrics.lecoq.io/castorichy1?template=classic&introduction=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&tweets=false&tweets.user=castorichy1&tweets.attachments=false&tweets.limit=2&config.timezone=Africa%2FNairobi)
 <!---
 🔗 &nbsp;**Connect with me**
 <a href="https://twitter.com/castorichy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
